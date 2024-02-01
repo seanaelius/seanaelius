@@ -5,23 +5,23 @@ I'm a fourth year Mechanical Engineering Student at Toronto Metropolitan Univers
 Currently learning programming through The Odin Project, with a focus on the Full Stack JavaScript path.
 
 
-Projects
+Projects 💻
 ------------------------------------------------------------------------------------------------------------------------------
 With lots of projects planned for the future, here are some of the ones I am currently focused on at the moment while working through TOP!
 
-• Website Portfolio [IN PROGRESS!](https://github.com/seanaelius/website)
+• Website Portfolio ([IN PROGRESS.](https://github.com/seanaelius/website))
 
-• Genshin Impact Wish Simulator [IN PROGRESS!](https://github.com/seanaelius/genshin-wish-simulator)
+• Genshin Impact Wish Simulator ([IN PROGRESS.](https://github.com/seanaelius/genshin-wish-simulator))
 
-• Etch-A-Sketch ([Link](https://seanaelius.github.io/odin-etch-a-sketch/))
+• Etch-A-Sketch ([Link](https://seanaelius.github.io/odin-etch-a-sketch/)).
 
-• Calculator ([Link](https://seanaelius.github.io/odin-calculator/))
+• Calculator ([Link](https://seanaelius.github.io/odin-calculator/)).
 
-• Rock Paper Scissors ([Link](https://seanaelius.github.io/odin-rock-paper-scissors/))
+• Rock Paper Scissors ([Link](https://seanaelius.github.io/odin-rock-paper-scissors/)).
 
 
 
-Toolbox
+Toolbox 🛠
 ------------------------------------------------------------------------------------------------------------------------------
 General Programming: Python, C.
 
@@ -36,6 +36,6 @@ Database: MongoDB.
 Other: MATLAB.
 
 
-Contact
+Contact ✉️
 ------------------------------------------------------------------------------------------------------------------------------
 I can be easily reached by [email](seanaelius@gmail.com), or you can shoot me a message on [LinkedIn](https://www.linkedin.com/in/sean-delacruz/)!
