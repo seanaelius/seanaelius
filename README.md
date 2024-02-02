@@ -13,6 +13,8 @@ With lots of projects planned for the future, here are some of the ones I am cur
 
 • Genshin Impact Wish Simulator ([IN PROGRESS.](https://github.com/seanaelius/genshin-wish-simulator))
 
+• Admin Dashboard ([IN PROGRESS.](https://github.com/seanaelius/odin-admin-dashboard))
+
 • Etch-A-Sketch ([Link](https://seanaelius.github.io/odin-etch-a-sketch/)).
 
 • Calculator ([Link](https://seanaelius.github.io/odin-calculator/)).
