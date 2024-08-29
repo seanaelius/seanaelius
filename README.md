@@ -1,3 +1,5 @@
 ## Hi there 👋
 
-I'm a Fullstack developer here, gonna deploy my Fullstack AI apps on this page so stay tuned!
+I'm a Fullstack developer here, who is currently following along on The Odin Project on the JavaScript path. Gonna deploy my own Fullstack apps on this page soon so stay tuned!
+
+
