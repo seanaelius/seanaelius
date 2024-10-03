@@ -1,6 +1,7 @@
 # Hi, my name is Sean Aelius 👋
 
-I'm a Fullstack developer who is currently following along on The Odin Project on the JavaScript path. Gonna deploy my own Fullstack apps on this page soon so stay tuned!
+I'm a Mechanical Engineering student that is learning to become a Fullstack developer! I am currently following along on The Odin Project on the JavaScript path. 
+Gonna deploy my own Fullstack apps on this page soon so stay tuned!
 
 ## Current Projects:
 
