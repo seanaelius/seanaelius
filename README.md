@@ -3,6 +3,8 @@
 I'm a Mechanical Engineering student that is learning to become a Fullstack developer! I am currently following along on The Odin Project on the JavaScript path. 
 Gonna deploy my own Fullstack apps on this page soon so stay tuned!
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=seanaelius)](https://git.io/streak-stats)
+
 ## Current Projects:
 
 - Restaurant Page
