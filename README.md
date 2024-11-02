@@ -5,7 +5,10 @@ Gonna deploy my own Fullstack apps on this page soon so stay tuned!
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=seanaelius)](https://git.io/streak-stats)
 
-[![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=seanaelius&show_icons=true)
+![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=seanaelius&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seanaelius)
+
 
 ## Current Projects:
 
